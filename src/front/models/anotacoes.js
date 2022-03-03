@@ -12,6 +12,3 @@ class Anotacoes {
     }
   }
 }
-
-let test = new Anotacoes(123, 'asdfb');
-test.getInfo();
