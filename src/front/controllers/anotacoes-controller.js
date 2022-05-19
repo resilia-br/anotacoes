@@ -1,13 +1,13 @@
 class AnotacoesController {
     constructor() {
-        this.array = [];
+        this.anotacoesBd = [];
     }
     addAnotacao() {
         const titulo = $('#titulo').val();
         const descricaoTarefa = $('#descricaoTarefa').val();
         const anotacao = new Anotacoes(titulo, descricaoTarefa);
         console.log(anotacao);
-        this.array.push(anotacao);
-        console.log(this.array);
+        this.anotacoesBd.push(anotacao);
+        console.log(this.anotacoesBd);
     }
 }
