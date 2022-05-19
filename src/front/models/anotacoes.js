@@ -15,6 +15,6 @@ class Anotacoes {
     }
 }
 
-let bloquinho = new Anotacoes(1, 1);
-let bloquinho2 = new Anotacoes('b', 1);
-let bloquinho3 = new Anotacoes('b', 'b');
+//let bloquinho = new Anotacoes(1, 1);
+//let bloquinho2 = new Anotacoes('b', 1);
+//let bloquinho3 = new Anotacoes('b', 'b');
