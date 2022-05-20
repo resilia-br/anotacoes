@@ -14,7 +14,3 @@ class Anotacoes {
         console.log(`${this.titulo}: ${this.notas}`)
     }
 }
-
-//let bloquinho = new Anotacoes(1, 1);
-//let bloquinho2 = new Anotacoes('b', 1);
-//let bloquinho3 = new Anotacoes('b', 'b');
